@@ -8,8 +8,10 @@ install Lua and Love. On Fedora:
 `dnf install -y lua love`
 
 download game .zip or clone repository
-`git clone https://github.com/Stell0/gravity/`
-`cd gravity`
+```
+git clone https://github.com/Stell0/gravity/
+cd gravity
+```
 
 launch game
 `love .`
